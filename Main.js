@@ -4,9 +4,9 @@
 // Settings \\
 
 const BotName = "Spam Bot"; // Bot Name \\
-const Token = ""; // The token for the bot \\
-const SpamMessage = "Your gay and you can't reverse this in any condition."; // message you want to spam \\
-const YourDiscordID = 0; // Replace 0 with your discord id! \\
+const Token = "NzQ1MTEyNTgyNzE2Nzg0NzAy.XztCKw.ik8WJqokpB15bGaA0EsJ7nQUY4Q"; // The token for the bot \\
+const SpamMessage = "<@711110891604803585> nigger"; // message you want to spam \\
+const YourDiscordID = 182894387880132608; // Replace 0 with your discord id! \\
 
 // Bot \\
 
